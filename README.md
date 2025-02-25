@@ -17,4 +17,4 @@ Ce site contient:
 **Visual Code** editeur de code
  * **HTML5** pour la structure d'une page web.
  * **CSS** permetre d'ajouter du style.
-* **GitHub**  Plataforme pour héberger du code et collaborer dessus.
+* **GitHub**  Plataforme pour héberger du code et collaborer.
