@@ -1,4 +1,4 @@
-# $\textbf{\color{#9d03fc} {Site\ Web\ avec\ HTMl5\ et\ CSS3}}$
+# $\textbf{\color{#9d03fc} {Site\ Web\ avec\ HTML5\ et\ CSS3}}$
 
 <p align="center">
 
